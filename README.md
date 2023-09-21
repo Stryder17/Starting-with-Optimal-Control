@@ -1,3 +1,6 @@
 # Starting with Optimal Control
  
-This is my journey of learning Optimal Control.
+Contents
+
+- Optimal Control of Discrete Time System
+- Suboptimal Control
