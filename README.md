@@ -1,6 +1,6 @@
-# Starting with Optimal Control
+# Starting with Optimal Control #
  
-Contents
+## Contents  ##
 
 - Optimal Control of Discrete Time System
 	- Open loop Optimal Control
