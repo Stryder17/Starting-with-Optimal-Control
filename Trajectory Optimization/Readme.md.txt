@@ -1,0 +1,1 @@
+This is an exercise to learn Trajectory Optimization. I will attempt to replicate the work done by Matthew Kelly in his Introduction to Trajectory Optimization paper.
