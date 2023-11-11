@@ -1,0 +1,16 @@
+% Introduction to Trajectory Optimization by Matthew Kelly
+
+clc;clear;close all;
+
+% System Dynamics
+
+
+% Initial Condition
+
+
+% Final Condition
+
+
+% Performance index
+% We want to minimize control andWe will have fixed final state 
+
